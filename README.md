@@ -1,5 +1,7 @@
-## Hi there 👋
 # Hi 👋, I'm Raihan Naime
+
+<img width="2000" height="600" alt="Burnt Orange Clean Elegant Professional Business Marketing LinkedIn Banner  (1)" src="https://github.com/user-attachments/assets/fbdc3cf2-166b-47ea-8d83-39041800da90" />
+
 
 ### Full Stack Web Developer or MERN Stack Specialist
 
