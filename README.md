@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 About Me  
-Hello! I'm Lisad, a dedicated Front End Developer with a strong interest in Full Stack Development. I enjoy building modern, scalable applications and love sharing my knowledge through teaching and writing.
+Hello! I'm Raihan Naime, a dedicated Front End Developer with a strong interest in Full Stack Development. I enjoy building modern, scalable applications and love sharing my knowledge through teaching and writing.
 
 
 
