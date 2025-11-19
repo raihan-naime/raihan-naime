@@ -35,20 +35,83 @@
 
 
 
-### 📊 GitHub Stats
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
 
-  <!-- GitHub Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=raihan-naime&theme=react-dark&hide_border=true" width="400"/>
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=raihan-naime&show_icons=true&theme=react-dark&hide_border=true" width="400"/>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-naime&layout=compact&theme=react-dark&hide_border=true" width="400"/>
+<p align="center">
+  <img src="https://i.ibb.co/0VnvK3CN/Neutral-Modern-Web-Developer-Linked-In-Banner-3.png" width="100%" alt="banner"/>
+</p>
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihan-naime&theme=react-dark&hide_border=true" width="400"/>
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Md Lisaduzzaman</span></h1>
 
-</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer;🚀+MERN+Stack+Developer;🔥+Firebase+%7C+MongoDB+%7C+Express+%7C+Node;🎯+Passionate+Web+Application+Builder" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me  
+Hello! I'm Lisad, a dedicated Front End Developer with a strong interest in Full Stack Development. I enjoy building modern, scalable applications and love sharing my knowledge through teaching and writing.
+
+
+---
+
+## 🔥 What I'm Doing Now
+- 🚧 Building a *Tourism Booking Platform (MERN)*
+- 🌱 Learning *Next.js + GraphQL + TypeScript*
+- 🔒 Improving *Firebase Authentication & API Security*
+- 🎨 Enhancing UI/UX using *Tailwind CSS*
+- ⚡ Exploring *scalable backend architecture*
+
+---
+
+## 💻 Technology Stack
+
+| *Category*                | *Technologies* |
+|-----------------------------|-----------------|
+| *🗣 Languages*             | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| *🎨 Frontend*             | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) |
+| *🛠 Backend*             | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| *🗄 Database*             | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| *⚙ Tools & Platforms*     | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+---
+
+# 🌐 Connect With Me  
+<p align="left">
+  <a href="https://github.com/LishadWahid">
+    <img src="https://skillicons.dev/icons?i=github" width="40px"/>
+  </a>
+  <a href="mailto:lishadwahid@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=LishadWahid&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LishadWahid&theme=tokyonight&hide_border=true" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LishadWahid&layout=compact&theme=tokyonight&hide_border=true" width="60%">
+    </td>
+  </tr>
+</table>
+
+---
