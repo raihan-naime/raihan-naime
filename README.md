@@ -67,25 +67,6 @@ Hello! I'm Raihan Naime, a dedicated Front End Developer with a strong interest 
 
 ---
 
-# 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=raihan-naime&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihan-naime&theme=tokyonight&hide_border=true" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-naime&layout=compact&theme=tokyonight&hide_border=true" width="60%">
-    </td>
-  </tr>
-</table>
 
 
 
