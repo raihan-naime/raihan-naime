@@ -7,6 +7,11 @@
 
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Frontend+Developer;🚀+MERN+Stack+Developer;🔥+Firebase+%7C+MongoDB+%7C+Express+%7C+Node;🎯+Passionate+Web+Application+Builder" alt="Typing SVG" />
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me  
