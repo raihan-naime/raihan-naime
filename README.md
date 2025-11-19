@@ -62,13 +62,16 @@ Hello! I'm Lisad, a dedicated Front End Developer with a strong interest in Full
   <a href="https://github.com/raihan-naime">
     <img src="https://skillicons.dev/icons?i=github" width="40px"/>
   </a>
+
   <a href="https://www.facebook.com/profile.php?id=61574219675935">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px"/>
   </a>
+
   <a href="https://www.linkedin.com/in/raihan-naime/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
   </a>
 </p>
+
 
 
 ---
