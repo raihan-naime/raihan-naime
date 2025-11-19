@@ -83,28 +83,6 @@ Hello! I'm Lisad, a dedicated Front End Developer with a strong interest in Full
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=LishadWahid&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LishadWahid&theme=tokyonight&hide_border=true" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LishadWahid&layout=compact&theme=tokyonight&hide_border=true" width="60%">
-    </td>
-  </tr>
-</table>
-
----
-
-# 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=raihan-naime&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
     </td>
   </tr>
