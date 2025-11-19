@@ -16,8 +16,8 @@
 ---
 
 ## 👨‍💻 About Me  
-Hello! I'm Raihan Naime, a dedicated Front End Developer with a strong interest in Full Stack Development. I enjoy building modern, scalable applications and love sharing my knowledge through teaching and writing.
-
+Hey there! I'm Raihan Naime — a Front End Developer who writes more code than messages and drinks more tea than water. I love building clean, modern, and scalable web applications, and I'm currently leveling up toward Full Stack Development.
+When I’m not coding, I’m teaching, writing, or fixing bugs I created at 2 AM. :)
 
 
 ### Full Stack Web Developer or MERN Stack Specialist (Beginner)
