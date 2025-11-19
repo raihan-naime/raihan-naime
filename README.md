@@ -34,12 +34,14 @@ Hello! I'm Lisad, a dedicated Front End Developer with a strong interest in Full
 
 ---
 
-## 🔥 What I'm Doing Now
-- 🚧 Building a *Tourism Booking Platform (MERN)*
-- 🌱 Learning *Next.js + GraphQL + TypeScript*
-- 🔒 Improving *Firebase Authentication & API Security*
-- 🎨 Enhancing UI/UX using *Tailwind CSS*
-- ⚡ Exploring *scalable backend architecture*
+##  What I'm Doing Now
+-  Building a *Full Parcel Delivery Platform (Bangladesh)* using **React, Firebase, Node.js, Express, MongoDB & JWT**
+-  Implementing features like *service center locations, parcel booking, delivery tracking, and user authentication*
+-  Improving *JWT authentication, role-based access, and API security*
+-  Enhancing UI/UX using *Tailwind CSS + DaisyUI*
+-  Working on *search functionality for service centers by district*
+-  Exploring *better database structuring and backend optimization*
+
 
 ---
 
