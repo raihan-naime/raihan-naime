@@ -67,7 +67,22 @@ Hello! I'm Raihan Naime, a dedicated Front End Developer with a strong interest 
 
 ---
 
+### 🔗 Connect with Me
 
+<div style="display: flex; gap: 20px;">
+  <a href="https://github.com/raihan-naime" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/raihan-naime" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  <a href="https://twitter.com/raihan_naime" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
+  </a>
+  <a href="https://www.facebook.com/raihan.naime" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+  </a>
+</div>
 
 
 ---
