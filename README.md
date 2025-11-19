@@ -20,6 +20,8 @@ Hey there! I'm Raihan Naime — a Front End Developer who writes more code than 
 When I’m not coding, I’m teaching, writing, or fixing bugs I created at 2 AM. :)
 
 
+---
+
 ### Full Stack Web Developer or MERN Stack Specialist (Beginner)
 
 -  I'm currently working on **Building full-stack MERN applications with JWT authentication.**
