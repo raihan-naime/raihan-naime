@@ -5,6 +5,8 @@
   <img width="2000" height="600" alt="Burnt Orange Clean Elegant Professional Business Marketing LinkedIn Banner  (1)" src="https://github.com/user-attachments/assets/fbdc3cf2-166b-47ea-8d83-39041800da90" />
 </p>
 
+
+
 ---
 
 ## 👨‍💻 About Me  
@@ -97,3 +99,24 @@ Hello! I'm Lisad, a dedicated Front End Developer with a strong interest in Full
 </table>
 
 ---
+
+# 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=raihan-naime&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihan-naime&theme=tokyonight&hide_border=true" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-naime&layout=compact&theme=tokyonight&hide_border=true" width="60%">
+    </td>
+  </tr>
+</table>
+
