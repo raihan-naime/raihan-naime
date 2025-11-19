@@ -67,22 +67,7 @@ Hello! I'm Raihan Naime, a dedicated Front End Developer with a strong interest 
 
 ---
 
-### 🔗 Connect with Me
 
-<div style="display: flex; gap: 20px;">
-  <a href="https://github.com/raihan-naime" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/raihan-naime" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-  <a href="https://twitter.com/raihan_naime" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
-  </a>
-  <a href="https://www.facebook.com/raihan.naime" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
-  </a>
-</div>
 
 
 ---
@@ -92,3 +77,18 @@ Hello! I'm Raihan Naime, a dedicated Front End Developer with a strong interest 
 | <a href="https://github.com/raihan-naime"><img src="https://github-readme-stats.vercel.app/api?username=raihan-naime&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/raihan-naime"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-naime&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
 
 
+---
+
+### 🔗 Connect with Me
+
+<div style="display: flex; gap: 20px;">
+  <a href="https://github.com/raihan-naime" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/raihan-naime" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61574219675935" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+  </a>
+</div>
