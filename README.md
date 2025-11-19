@@ -63,23 +63,6 @@ Hello! I'm Raihan Naime, a dedicated Front End Developer with a strong interest 
 | *🗄 Database*             | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | *⚙ Tools & Platforms*     | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
----
-
-# 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/raihan-naime">
-    <img src="https://skillicons.dev/icons?i=github" width="40px"/>
-  </a>
-
-  <a href="https://www.facebook.com/profile.php?id=61574219675935">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/raihan-naime/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
-  </a>
-</p>
-
 
 
 ---
@@ -103,4 +86,13 @@ Hello! I'm Raihan Naime, a dedicated Front End Developer with a strong interest 
     </td>
   </tr>
 </table>
+
+
+
+---
+
+| 📊 GitHub Stats | 🏆 Top Languages |
+| :---: | :---: |
+| <a href="https://github.com/raihan-naime"><img src="https://github-readme-stats.vercel.app/api?username=raihan-naime&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/raihan-naime"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-naime&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
+
 
