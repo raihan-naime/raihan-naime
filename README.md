@@ -3,7 +3,7 @@
 
 
 
-### Full Stack Web Developer or MERN Stack Specialist
+### Full Stack Web Developer or MERN Stack Specialist (Beginner)
 
 - 🔭 I'm currently working on **Building full-stack MERN applications with JWT authentication.**
 
