@@ -1,6 +1,15 @@
 # Hi 👋, I'm Raihan Naime
 
 
+<p align="center">
+  <img width="2000" height="600" alt="Burnt Orange Clean Elegant Professional Business Marketing LinkedIn Banner  (1)" src="https://github.com/user-attachments/assets/fbdc3cf2-166b-47ea-8d83-39041800da90" />
+</p>
+
+---
+
+## 👨‍💻 About Me  
+Hello! I'm Lisad, a dedicated Front End Developer with a strong interest in Full Stack Development. I enjoy building modern, scalable applications and love sharing my knowledge through teaching and writing.
+
 
 
 ### Full Stack Web Developer or MERN Stack Specialist (Beginner)
@@ -21,23 +30,6 @@
 
 
 
-
-
-<p align="center">
-  <img src="https://i.ibb.co/0VnvK3CN/Neutral-Modern-Web-Developer-Linked-In-Banner-3.png" width="100%" alt="banner"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Md Lisaduzzaman</span></h1>
-
-
-<p align="center">
-  <img width="2000" height="600" alt="Burnt Orange Clean Elegant Professional Business Marketing LinkedIn Banner  (1)" src="https://github.com/user-attachments/assets/fbdc3cf2-166b-47ea-8d83-39041800da90" />
-</p>
-
----
-
-## 👨‍💻 About Me  
-Hello! I'm Lisad, a dedicated Front End Developer with a strong interest in Full Stack Development. I enjoy building modern, scalable applications and love sharing my knowledge through teaching and writing.
 
 
 ---
