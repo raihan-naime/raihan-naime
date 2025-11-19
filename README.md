@@ -14,19 +14,19 @@ Hello! I'm Lisad, a dedicated Front End Developer with a strong interest in Full
 
 ### Full Stack Web Developer or MERN Stack Specialist (Beginner)
 
-- 🔭 I'm currently working on **Building full-stack MERN applications with JWT authentication.**
+-  I'm currently working on **Building full-stack MERN applications with JWT authentication.**
 
-- 🌱 I'm currently learning **Next.js and advanced deployment strategies.**
+-  I'm currently learning **Next.js and advanced deployment strategies.**
 
-- 👯 I'm looking to collaborate on **Open-source projects and complex feature development.**
+-  I'm looking to collaborate on **Open-source projects and complex feature development.**
 
-- 🤝 I'm looking for help with **Scaling applications and microservices architecture.**
+-  I'm looking for help with **Scaling applications and microservices architecture.**
 
-- 💬 Ask me about **MERN Stack development, JWT authentication, and Tailwind CSS implementation.**
+-  Ask me about **MERN Stack development, JWT authentication, and Tailwind CSS implementation.**
 
-- 📫 How to reach me **imraihan.naim@gmail.com**
+-  How to reach me **imraihan.naim@gmail.com**
 
-- ⚡ Fun fact **I once spent 45 minutes moving a button 1 pixel to the left, just because it felt wrong. It looked exactly the same, but my heart was at peace.**
+-  Fun fact **I once spent 45 minutes moving a button 1 pixel to the left, just because it felt wrong. It looked exactly the same, but my heart was at peace.**
 
 
 
