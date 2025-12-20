@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="2000" height="600" alt="Burnt Orange Clean Elegant Professional Business Marketing LinkedIn Banner  (2)" src="https://github.com/user-attachments/assets/26ac0b69-aa0d-4a0a-a2ba-9ff7d7133f4d" />
+  <img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/d9043b47-04fa-41aa-b9de-b8d8330d5b1f" />
 </p>
 
 
